@@ -1,4 +1,4 @@
-# Welcome to the Software Engineering Project by Nina
+# Direct main branch edit
 # Software_Engineering_1
 
 # COMP 390
