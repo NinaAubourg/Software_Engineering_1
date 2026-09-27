@@ -1,4 +1,5 @@
-# Welcome to the Software Engineering Project by Nina
+# Testing Merge Conflict Step
+# Welcome to the team's awesome Software Engineering Project!
 # Software_Engineering_1
 
 # COMP 390
